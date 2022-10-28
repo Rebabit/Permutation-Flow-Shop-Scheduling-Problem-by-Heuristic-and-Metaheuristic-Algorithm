@@ -1,4 +1,5 @@
 ## **Permutation Flow Shop Scheduling Problem by Heuristic and Metaheuristic Algorithm**
+北京理工大学 最优化方法 结课作业
 
 - `optimization.cpp`: main code
 - `plot.py`: main code for drawing the Gantt chart
